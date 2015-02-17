@@ -1,0 +1,51 @@
+c:\users\alfredo\documents\visual studio 2013\Projects\PracticaNeedletail\PracticaNeedletail\bin\Debug\PracticaNeedletail.exe.config
+c:\users\alfredo\documents\visual studio 2013\Projects\PracticaNeedletail\PracticaNeedletail\bin\Debug\PracticaNeedletail.exe
+c:\users\alfredo\documents\visual studio 2013\Projects\PracticaNeedletail\PracticaNeedletail\bin\Debug\PracticaNeedletail.pdb
+c:\users\alfredo\documents\visual studio 2013\Projects\PracticaNeedletail\PracticaNeedletail\bin\Debug\BL.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\PracticaNeedletail\PracticaNeedletail\bin\Debug\Data.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\PracticaNeedletail\PracticaNeedletail\bin\Debug\Needletail.DataAccess.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\PracticaNeedletail\PracticaNeedletail\bin\Debug\Entities.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\PracticaNeedletail\PracticaNeedletail\bin\Debug\BL.pdb
+c:\users\alfredo\documents\visual studio 2013\Projects\PracticaNeedletail\PracticaNeedletail\bin\Debug\Data.pdb
+c:\users\alfredo\documents\visual studio 2013\Projects\PracticaNeedletail\PracticaNeedletail\bin\Debug\Entities.pdb
+c:\users\alfredo\documents\visual studio 2013\Projects\PracticaNeedletail\PracticaNeedletail\obj\Debug\PracticaNeedletail.csprojResolveAssemblyReference.cache
+c:\users\alfredo\documents\visual studio 2013\Projects\PracticaNeedletail\PracticaNeedletail\obj\Debug\PracticaNeedletail.exe
+c:\users\alfredo\documents\visual studio 2013\Projects\PracticaNeedletail\PracticaNeedletail\obj\Debug\PracticaNeedletail.pdb
+C:\Users\aguzman\Documents\Visual Studio 2013\Projects\PracticaNeedletail\PracticaNeedletail\bin\Debug\PracticaNeedletail.exe.config
+C:\Users\aguzman\Documents\Visual Studio 2013\Projects\PracticaNeedletail\PracticaNeedletail\obj\Debug\PracticaNeedletail.exe
+C:\Users\aguzman\Documents\Visual Studio 2013\Projects\PracticaNeedletail\PracticaNeedletail\obj\Debug\PracticaNeedletail.pdb
+C:\Users\aguzman\Documents\Visual Studio 2013\Projects\PracticaNeedletail\PracticaNeedletail\bin\Debug\PracticaNeedletail.exe
+C:\Users\aguzman\Documents\Visual Studio 2013\Projects\PracticaNeedletail\PracticaNeedletail\bin\Debug\PracticaNeedletail.pdb
+C:\Users\aguzman\Documents\Visual Studio 2013\Projects\PracticaNeedletail\PracticaNeedletail\bin\Debug\BL.dll
+C:\Users\aguzman\Documents\Visual Studio 2013\Projects\PracticaNeedletail\PracticaNeedletail\bin\Debug\Data.dll
+C:\Users\aguzman\Documents\Visual Studio 2013\Projects\PracticaNeedletail\PracticaNeedletail\bin\Debug\Needletail.DataAccess.dll
+C:\Users\aguzman\Documents\Visual Studio 2013\Projects\PracticaNeedletail\PracticaNeedletail\bin\Debug\Entities.dll
+C:\Users\aguzman\Documents\Visual Studio 2013\Projects\PracticaNeedletail\PracticaNeedletail\bin\Debug\BL.pdb
+C:\Users\aguzman\Documents\Visual Studio 2013\Projects\PracticaNeedletail\PracticaNeedletail\bin\Debug\Data.pdb
+C:\Users\aguzman\Documents\Visual Studio 2013\Projects\PracticaNeedletail\PracticaNeedletail\bin\Debug\Entities.pdb
+C:\Users\aguzman\Documents\Visual Studio 2013\Projects\PracticaNeedletail\PracticaNeedletail\obj\Debug\PracticaNeedletail.csprojResolveAssemblyReference.cache
+F:\PracticaNeedletail\PracticaNeedletail\bin\Debug\PracticaNeedletail.exe.config
+F:\PracticaNeedletail\PracticaNeedletail\obj\Debug\PracticaNeedletail.exe
+F:\PracticaNeedletail\PracticaNeedletail\obj\Debug\PracticaNeedletail.pdb
+F:\PracticaNeedletail\PracticaNeedletail\bin\Debug\PracticaNeedletail.exe
+F:\PracticaNeedletail\PracticaNeedletail\bin\Debug\PracticaNeedletail.pdb
+F:\PracticaNeedletail\PracticaNeedletail\bin\Debug\BL.dll
+F:\PracticaNeedletail\PracticaNeedletail\bin\Debug\Entities.dll
+F:\PracticaNeedletail\PracticaNeedletail\bin\Debug\Data.dll
+F:\PracticaNeedletail\PracticaNeedletail\bin\Debug\Needletail.DataAccess.dll
+F:\PracticaNeedletail\PracticaNeedletail\bin\Debug\BL.pdb
+F:\PracticaNeedletail\PracticaNeedletail\bin\Debug\Entities.pdb
+F:\PracticaNeedletail\PracticaNeedletail\bin\Debug\Data.pdb
+F:\PracticaNeedletail\PracticaNeedletail\obj\Debug\PracticaNeedletail.csprojResolveAssemblyReference.cache
+C:\Users\aguzman\Desktop\PracticaNeedletail\PracticaNeedletail\bin\Debug\PracticaNeedletail.exe.config
+C:\Users\aguzman\Desktop\PracticaNeedletail\PracticaNeedletail\obj\Debug\PracticaNeedletail.exe
+C:\Users\aguzman\Desktop\PracticaNeedletail\PracticaNeedletail\obj\Debug\PracticaNeedletail.pdb
+C:\Users\aguzman\Desktop\PracticaNeedletail\PracticaNeedletail\bin\Debug\PracticaNeedletail.exe
+C:\Users\aguzman\Desktop\PracticaNeedletail\PracticaNeedletail\bin\Debug\PracticaNeedletail.pdb
+C:\Users\aguzman\Desktop\PracticaNeedletail\PracticaNeedletail\bin\Debug\BL.dll
+C:\Users\aguzman\Desktop\PracticaNeedletail\PracticaNeedletail\bin\Debug\Entities.dll
+C:\Users\aguzman\Desktop\PracticaNeedletail\PracticaNeedletail\bin\Debug\Data.dll
+C:\Users\aguzman\Desktop\PracticaNeedletail\PracticaNeedletail\bin\Debug\Needletail.DataAccess.dll
+C:\Users\aguzman\Desktop\PracticaNeedletail\PracticaNeedletail\bin\Debug\BL.pdb
+C:\Users\aguzman\Desktop\PracticaNeedletail\PracticaNeedletail\bin\Debug\Entities.pdb
+C:\Users\aguzman\Desktop\PracticaNeedletail\PracticaNeedletail\bin\Debug\Data.pdb

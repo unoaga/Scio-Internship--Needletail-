@@ -1,0 +1,18 @@
+c:\users\alfredo\documents\visual studio 2013\Projects\PracticaNeedletail\Entities\bin\Debug\Entities.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\PracticaNeedletail\Entities\bin\Debug\Entities.pdb
+c:\users\alfredo\documents\visual studio 2013\Projects\PracticaNeedletail\Entities\bin\Debug\Needletail.DataAccess.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\PracticaNeedletail\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+c:\users\alfredo\documents\visual studio 2013\Projects\PracticaNeedletail\Entities\obj\Debug\Entities.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\PracticaNeedletail\Entities\obj\Debug\Entities.pdb
+C:\Users\aguzman\Documents\Visual Studio 2013\Projects\PracticaNeedletail\Entities\bin\Debug\Entities.dll
+C:\Users\aguzman\Documents\Visual Studio 2013\Projects\PracticaNeedletail\Entities\bin\Debug\Entities.pdb
+C:\Users\aguzman\Documents\Visual Studio 2013\Projects\PracticaNeedletail\Entities\bin\Debug\Needletail.DataAccess.dll
+C:\Users\aguzman\Documents\Visual Studio 2013\Projects\PracticaNeedletail\Entities\obj\Debug\Entities.dll
+C:\Users\aguzman\Documents\Visual Studio 2013\Projects\PracticaNeedletail\Entities\obj\Debug\Entities.pdb
+C:\Users\aguzman\Documents\Visual Studio 2013\Projects\PracticaNeedletail\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\aguzman\Desktop\PracticaNeedletail\Entities\bin\Debug\Entities.dll
+C:\Users\aguzman\Desktop\PracticaNeedletail\Entities\bin\Debug\Entities.pdb
+C:\Users\aguzman\Desktop\PracticaNeedletail\Entities\bin\Debug\Needletail.DataAccess.dll
+C:\Users\aguzman\Desktop\PracticaNeedletail\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\aguzman\Desktop\PracticaNeedletail\Entities\obj\Debug\Entities.dll
+C:\Users\aguzman\Desktop\PracticaNeedletail\Entities\obj\Debug\Entities.pdb

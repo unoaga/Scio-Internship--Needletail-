@@ -1,0 +1,56 @@
+c:\users\alfredo\documents\visual studio 2013\Projects\PracticaNeedletail\Data\bin\Debug\Data.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\PracticaNeedletail\Data\bin\Debug\Data.pdb
+c:\users\alfredo\documents\visual studio 2013\Projects\PracticaNeedletail\Data\bin\Debug\Entities.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\PracticaNeedletail\Data\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\PracticaNeedletail\Data\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\PracticaNeedletail\Data\bin\Debug\Microsoft.SqlServer.Smo.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\PracticaNeedletail\Data\bin\Debug\Microsoft.SqlServer.Types.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\PracticaNeedletail\Data\bin\Debug\Needletail.DataAccess.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\PracticaNeedletail\Data\bin\Debug\Needletail.DataAccess.Migrations.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\PracticaNeedletail\Data\bin\Debug\System.Data.DataSetExtensions.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\PracticaNeedletail\Data\bin\Debug\Entities.pdb
+c:\users\alfredo\documents\visual studio 2013\Projects\PracticaNeedletail\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+c:\users\alfredo\documents\visual studio 2013\Projects\PracticaNeedletail\Data\obj\Debug\Data.dll
+c:\users\alfredo\documents\visual studio 2013\Projects\PracticaNeedletail\Data\obj\Debug\Data.pdb
+C:\Users\aguzman\Documents\Visual Studio 2013\Projects\PracticaNeedletail\Data\bin\Debug\Data.dll
+C:\Users\aguzman\Documents\Visual Studio 2013\Projects\PracticaNeedletail\Data\bin\Debug\Data.pdb
+C:\Users\aguzman\Documents\Visual Studio 2013\Projects\PracticaNeedletail\Data\bin\Debug\Entities.dll
+C:\Users\aguzman\Documents\Visual Studio 2013\Projects\PracticaNeedletail\Data\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\aguzman\Documents\Visual Studio 2013\Projects\PracticaNeedletail\Data\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\aguzman\Documents\Visual Studio 2013\Projects\PracticaNeedletail\Data\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\aguzman\Documents\Visual Studio 2013\Projects\PracticaNeedletail\Data\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\aguzman\Documents\Visual Studio 2013\Projects\PracticaNeedletail\Data\bin\Debug\Needletail.DataAccess.dll
+C:\Users\aguzman\Documents\Visual Studio 2013\Projects\PracticaNeedletail\Data\bin\Debug\Needletail.DataAccess.Migrations.dll
+C:\Users\aguzman\Documents\Visual Studio 2013\Projects\PracticaNeedletail\Data\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\aguzman\Documents\Visual Studio 2013\Projects\PracticaNeedletail\Data\bin\Debug\Entities.pdb
+C:\Users\aguzman\Documents\Visual Studio 2013\Projects\PracticaNeedletail\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\aguzman\Documents\Visual Studio 2013\Projects\PracticaNeedletail\Data\obj\Debug\Data.dll
+C:\Users\aguzman\Documents\Visual Studio 2013\Projects\PracticaNeedletail\Data\obj\Debug\Data.pdb
+F:\PracticaNeedletail\Data\bin\Debug\Data.dll
+F:\PracticaNeedletail\Data\bin\Debug\Data.pdb
+F:\PracticaNeedletail\Data\bin\Debug\Entities.dll
+F:\PracticaNeedletail\Data\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+F:\PracticaNeedletail\Data\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+F:\PracticaNeedletail\Data\bin\Debug\Microsoft.SqlServer.Smo.dll
+F:\PracticaNeedletail\Data\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\PracticaNeedletail\Data\bin\Debug\Needletail.DataAccess.dll
+F:\PracticaNeedletail\Data\bin\Debug\Needletail.DataAccess.Migrations.dll
+F:\PracticaNeedletail\Data\bin\Debug\System.Data.DataSetExtensions.dll
+F:\PracticaNeedletail\Data\bin\Debug\Entities.pdb
+F:\PracticaNeedletail\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+F:\PracticaNeedletail\Data\obj\Debug\Data.dll
+F:\PracticaNeedletail\Data\obj\Debug\Data.pdb
+C:\Users\aguzman\Desktop\PracticaNeedletail\Data\bin\Debug\Data.dll
+C:\Users\aguzman\Desktop\PracticaNeedletail\Data\bin\Debug\Data.pdb
+C:\Users\aguzman\Desktop\PracticaNeedletail\Data\bin\Debug\Entities.dll
+C:\Users\aguzman\Desktop\PracticaNeedletail\Data\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\aguzman\Desktop\PracticaNeedletail\Data\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\aguzman\Desktop\PracticaNeedletail\Data\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\aguzman\Desktop\PracticaNeedletail\Data\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\aguzman\Desktop\PracticaNeedletail\Data\bin\Debug\Needletail.DataAccess.dll
+C:\Users\aguzman\Desktop\PracticaNeedletail\Data\bin\Debug\Needletail.DataAccess.Migrations.dll
+C:\Users\aguzman\Desktop\PracticaNeedletail\Data\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\aguzman\Desktop\PracticaNeedletail\Data\bin\Debug\Entities.pdb
+C:\Users\aguzman\Desktop\PracticaNeedletail\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\aguzman\Desktop\PracticaNeedletail\Data\obj\Debug\Data.dll
+C:\Users\aguzman\Desktop\PracticaNeedletail\Data\obj\Debug\Data.pdb
